@@ -51,3 +51,4 @@ for i in zbior:
 #    s.rstrip() - usuwa końcowe białe znaki
 #    s.split(separator) - dzieli napis używają podanego separatora
 #    s.strip() - usuwa początkowe i końcowe białe znaki
+#     Python methods

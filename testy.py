@@ -1,5 +1,6 @@
 #!/bin/bash/python
 
+#unique
 var = "Mama i tata lubia babcie=hehe )                    "
 
 nasza = var.find(u'babcie=')
